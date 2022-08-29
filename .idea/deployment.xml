@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="Remote Host (1) (2d92fed7-fd03-473f-b123-d95e41a68247)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.tiG8YUt46r" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (666430fc-bca8-4f62-9c57-c79fcc6134ac)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.EGB3oYZD3D" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (92b29502-a9bc-4550-9c4c-0b4394a736c2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.ZsxmZ79NXs" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="Turing (e917b924-0a3e-4aab-afc5-a0b71fa679e1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.4r0tamlDbg" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

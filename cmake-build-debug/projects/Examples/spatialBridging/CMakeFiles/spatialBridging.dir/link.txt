@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -O0 -Wall -Wextra -DDEBUG -Wno-narrowing  -rdynamic CMakeFiles/spatialBridging.dir/SpatialBridging.cpp.o  -o ../../../bin/spatialBridging  -L/home/subraman/chromosome_dynamics_bridges-master/cmake-build-debug/lib -Wl,-rpath,/home/subraman/chromosome_dynamics_bridges-master/cmake-build-debug/lib -lLeMonADE 

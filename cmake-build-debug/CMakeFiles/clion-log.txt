@@ -1,0 +1,9 @@
+/home/subraman/CLion-2019.1.4/clion-2019.1.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/subraman/chromosome_dynamics_bridges-master
+Build type is Debug
+USING CXX COMPILER FLAGS -g -O0 -Wall -Wextra -DDEBUG -Wno-narrowing
+USING C COMPILER FLAGS -g -O0 -Wall -Wextra -DDEBUG -Wno-narrowing
+INSTALLDIR_LEMONADE set to default/usr/local
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/subraman/chromosome_dynamics_bridges-master/cmake-build-debug

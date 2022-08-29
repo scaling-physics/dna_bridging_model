@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -O0 -Wall -Wextra -DDEBUG -Wno-narrowing  -rdynamic CMakeFiles/Example2.dir/ex2main.cpp.o  -o ../../../bin/Example2 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -O0 -Wall -Wextra -DDEBUG -Wno-narrowing  -rdynamic CMakeFiles/Example1.dir/ex1main.cpp.o  -o ../../../bin/Example1 ../../../lib/libLeMonADE.a 

@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="LeMonADE" targetName="docs" />
+      <config projectName="LeMonADE" targetName="SimpleSimulator" />
+      <config projectName="LeMonADE" targetName="Example7" />
+      <config projectName="LeMonADE" targetName="Example6" />
+      <config projectName="LeMonADE" targetName="Example5" />
+      <config projectName="LeMonADE" targetName="Example4" />
+      <config projectName="LeMonADE" targetName="Example3" />
+      <config projectName="LeMonADE" targetName="Example2" />
+      <config projectName="LeMonADE" targetName="Example1" />
+      <config projectName="LeMonADE" targetName="Example0" />
+      <config projectName="LeMonADE" targetName="spatialBridging" />
+      <config projectName="LeMonADE" targetName="libLeMonADE-static" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="718f40bb-bae8-4413-91b2-848bdd0238c7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/bin/Example6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/projects/Examples/example6/CMakeFiles/Example6.dir/ex6main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/projects/Examples/example6/CMakeFiles/Example6.dir/ex6main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/LeMonADE/updater/UpdaterSimpleSimulatorBridgesAll.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/LeMonADE/updater/UpdaterSimpleSimulatorBridgesAll.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/Examples/example6/ex6main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/projects/Examples/example6/ex6main.cpp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projects/Examples/example6/ex6main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="54" column="36" lean-forward="true" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/LeMonADE/updater/UpdaterSimpleSimulatorBridgesAll.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1293">
+              <caret line="103" selection-start-line="103" selection-end-line="103" />
+              <folding>
+                <element signature="e#1400#1445#0" expanded="true" />
+                <element signature="e#2020#2077#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/LeMonADE/updater/moves/MoveLocalSc.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3705">
+              <caret line="247" column="2" selection-start-line="247" selection-start-column="2" selection-end-line="247" selection-end-column="2" />
+              <folding>
+                <element signature="e#1371#1420#0" expanded="true" />
+                <element signature="e#6642#6665#0" expanded="true" />
+                <element signature="e#7562#7585#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/LeMonADE/updater/Bridges.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setNNInteraction</find>
+      <find>getAttributeTag</find>
+      <find>`</find>
+      <find>MoveLocalSc</find>
+      <find>UpdaterSimpleSimulator</find>
+      <find>Rg2TimeSeries</find>
+      <find>AnalyzerRadiusOfGyration</find>
+      <find>UpdaterAddLinearChains</find>
+      <find>PositionOfOri</find>
+      <find>R</find>
+      <find>RadiusOfGyration</find>
+      <find>Rg2</find>
+      <find>COM</find>
+      <find>Rg^2</find>
+      <find>CoMponent</find>
+      <find>ter</find>
+      <find>midDomain</find>
+      <find>TaskMangag</find>
+      <find>AnalyzerCentreOfMass</find>
+      <find>CoM</find>
+      <find>Periodic</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>MoveBridgeSc</replace>
+      <replace>UpdaterSimpleSimulatorBridges</replace>
+      <replace>PositionOfOriTimeSeries</replace>
+      <replace>AnalyzerPositionOfOri</replace>
+      <replace>UpdaterAddCircularChains</replace>
+      <replace>PositionOfTer</replace>
+      <replace>CentreOfMass</replace>
+      <replace>com</replace>
+      <replace>COM</replace>
+      <replace>CoM</replace>
+      <replace>Component</replace>
+      <replace>midDomain</replace>
+      <replace>midDomai</replace>
+      <replace>site</replace>
+      <replace>IngredientsType</replace>
+      <replace>AnalyzerInitialPositions</replace>
+      <replace>IP</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/projects/Examples/example6/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/projects/Examples/example7/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/projects/Examples/example3/ex3main.cpp" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/feature/FeatureNNInteractionSc.h" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/feature/FeatureNNInteractionSpatialBridge.h" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/updater/moves/MoveLocalBase.h" />
+        <option value="$PROJECT_DIR$/projects/Examples/SpatialBridging/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/projects/Examples/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/projects/Examples/spatialBridging/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/feature/FeatureNNInteractionScMod.h" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/updater/moves/MoveLocalSc2.h" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/updater/moves/MoveBridgeSc.h" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/updater/moves/MoveLocalSc1.h" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/updater/moves/MoveBase.h" />
+        <option value="$PROJECT_DIR$/projects/Examples/example4/Bridges.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/updater/UpdaterSimpleSimulator1.h" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/updater/UpdaterAddCircularChains.h" />
+        <option value="$PROJECT_DIR$/projects/Examples/example4/global_parameters.h" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/updater/UpdaterAbstractCreate.h" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/analyzer/AnalyzerPositionOfOri.h" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/updater/Bridges_all.h" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/analyzer/AnalyzerPositionOfTer.h" />
+        <option value="$PROJECT_DIR$/src/LeMonADE/utility/R250.cpp" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/updater/UpdaterAddLinearChains.h" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/analyzer/AnalyzerInitialPositions.h" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/analyzer/AnalyzerRadiusOfGyration.h" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/analyzer/AnalyzerCentreOfMass.h" />
+        <option value="$PROJECT_DIR$/projects/Examples/example4/Flags.h" />
+        <option value="$PROJECT_DIR$/projects/SimpleSimulator/main.cpp" />
+        <option value="$PROJECT_DIR$/projects/Examples/example5/ex5main.cpp" />
+        <option value="$PROJECT_DIR$/projects/Examples/example7/ex7main.cpp" />
+        <option value="$PROJECT_DIR$/projects/Examples/spatialBridging/SpatialBridging.cpp" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/analyzer/AnalyzerWriteBfmFile.h" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/updater/UpdaterSimpleSimulator.h" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/updater/Bridges.h" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/updater/UpdaterSimpleSimulatorBridges.h" />
+        <option value="$PROJECT_DIR$/projects/Examples/example4/ex4main.cpp" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/utility/RandomNumberGenerators.h" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/updater/moves/MoveLocalSc.h" />
+        <option value="$PROJECT_DIR$/include/LeMonADE/updater/UpdaterSimpleSimulatorBridgesAll.h" />
+        <option value="$PROJECT_DIR$/projects/Examples/example6/ex6main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="72" />
+    <option name="y" value="304" />
+    <option name="width" value="1652" />
+    <option name="height" value="941" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LeMonADE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chromosome_dynamics_bridges-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeMonADE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chromosome_dynamics_bridges-master" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeMonADE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chromosome_dynamics_bridges-master" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeMonADE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chromosome_dynamics_bridges-master" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeMonADE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chromosome_dynamics_bridges-master" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="example4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeMonADE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chromosome_dynamics_bridges-master" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="example6" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Desktop/chromosome_dynamics_bridges-master" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/include/LeMonADE/updater" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/include/LeMonADE/analyzer" />
+      <recent name="$PROJECT_DIR$/include/LeMonADE/updater" />
+      <recent name="$PROJECT_DIR$/include/LeMonADE/updater/moves" />
+      <recent name="$PROJECT_DIR$/projects/Examples" />
+      <recent name="$PROJECT_DIR$/include/LeMonADE/feature" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.Example6">
+    <configuration name="Example0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LeMonADE" TARGET_NAME="Example0" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LeMonADE" RUN_TARGET_NAME="Example0">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LeMonADE" TARGET_NAME="Example1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LeMonADE" RUN_TARGET_NAME="Example1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LeMonADE" TARGET_NAME="Example2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LeMonADE" RUN_TARGET_NAME="Example2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LeMonADE" TARGET_NAME="Example3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LeMonADE" RUN_TARGET_NAME="Example3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LeMonADE" TARGET_NAME="Example4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LeMonADE" RUN_TARGET_NAME="Example4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LeMonADE" TARGET_NAME="Example5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LeMonADE" RUN_TARGET_NAME="Example5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LeMonADE" TARGET_NAME="Example6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LeMonADE" RUN_TARGET_NAME="Example6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example7" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LeMonADE" TARGET_NAME="Example7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LeMonADE" RUN_TARGET_NAME="Example7">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleSimulator" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LeMonADE" TARGET_NAME="SimpleSimulator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LeMonADE" RUN_TARGET_NAME="SimpleSimulator">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="docs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LeMonADE" TARGET_NAME="docs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libLeMonADE-static" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LeMonADE" TARGET_NAME="libLeMonADE-static" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="spatialBridging" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LeMonADE" TARGET_NAME="spatialBridging" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LeMonADE" RUN_TARGET_NAME="spatialBridging">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Example0" />
+      <item itemvalue="CMake Application.Example1" />
+      <item itemvalue="CMake Application.Example2" />
+      <item itemvalue="CMake Application.Example3" />
+      <item itemvalue="CMake Application.Example4" />
+      <item itemvalue="CMake Application.Example5" />
+      <item itemvalue="CMake Application.Example6" />
+      <item itemvalue="CMake Application.Example7" />
+      <item itemvalue="CMake Application.SimpleSimulator" />
+      <item itemvalue="CMake Application.docs" />
+      <item itemvalue="CMake Application.libLeMonADE-static" />
+      <item itemvalue="CMake Application.spatialBridging" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="718f40bb-bae8-4413-91b2-848bdd0238c7" name="Default Changelist" comment="" />
+      <created>1588690401786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588690401786</updated>
+      <workItem from="1588690404125" duration="1187000" />
+      <workItem from="1588691621403" duration="7812000" />
+      <workItem from="1589183217119" duration="1211000" />
+      <workItem from="1589184516192" duration="9277000" />
+      <workItem from="1589195313104" duration="2396000" />
+      <workItem from="1589280236518" duration="1877000" />
+      <workItem from="1589358139920" duration="12628000" />
+      <workItem from="1589973962016" duration="1067000" />
+      <workItem from="1591092292045" duration="27184000" />
+      <workItem from="1591601509256" duration="20000" />
+      <workItem from="1591601688610" duration="5386000" />
+      <workItem from="1591613791764" duration="15739000" />
+      <workItem from="1591696387956" duration="11969000" />
+      <workItem from="1592207459555" duration="3942000" />
+      <workItem from="1592380509740" duration="2965000" />
+      <workItem from="1592896908068" duration="28401000" />
+      <workItem from="1593412419661" duration="8473000" />
+      <workItem from="1593428841303" duration="15092000" />
+      <workItem from="1593447107905" duration="7813000" />
+      <workItem from="1593530365909" duration="599000" />
+      <workItem from="1593587928658" duration="26745000" />
+      <workItem from="1593640748037" duration="2365000" />
+      <workItem from="1593675595117" duration="13104000" />
+      <workItem from="1593692769053" duration="6853000" />
+      <workItem from="1593706145823" duration="16000" />
+      <workItem from="1593706196941" duration="1686000" />
+      <workItem from="1593727965462" duration="2368000" />
+      <workItem from="1593761498659" duration="594000" />
+      <workItem from="1593763509013" duration="1955000" />
+      <workItem from="1593787162651" duration="19216000" />
+      <workItem from="1593870936072" duration="8573000" />
+      <workItem from="1593934950955" duration="14878000" />
+      <workItem from="1594022767548" duration="41284000" />
+      <workItem from="1594198552163" duration="21278000" />
+      <workItem from="1594286023275" duration="21116000" />
+      <workItem from="1594492486445" duration="601000" />
+      <workItem from="1594631084621" duration="2356000" />
+      <workItem from="1594651878933" duration="5346000" />
+      <workItem from="1594714866193" duration="2607000" />
+      <workItem from="1595791395717" duration="273000" />
+      <workItem from="1596181296128" duration="9425000" />
+      <workItem from="1596290633098" duration="4244000" />
+      <workItem from="1596571466967" duration="4072000" />
+      <workItem from="1596617212389" duration="15233000" />
+      <workItem from="1596789780659" duration="33541000" />
+      <workItem from="1598616051444" duration="1368000" />
+      <workItem from="1598862815382" duration="6287000" />
+      <workItem from="1599036372436" duration="23667000" />
+      <workItem from="1599131399127" duration="671000" />
+      <workItem from="1599134053756" duration="21000" />
+      <workItem from="1599571238047" duration="1858000" />
+      <workItem from="1599576485030" duration="972000" />
+      <workItem from="1599656719501" duration="52100000" />
+      <workItem from="1600256510993" duration="6153000" />
+      <workItem from="1600264774622" duration="40342000" />
+      <workItem from="1601020408761" duration="14204000" />
+      <workItem from="1601279009474" duration="56077000" />
+      <workItem from="1601977930961" duration="42435000" />
+      <workItem from="1602600816036" duration="37677000" />
+      <workItem from="1605691521972" duration="11222000" />
+      <workItem from="1607261015241" duration="11431000" />
+      <workItem from="1607595168021" duration="1182000" />
+      <workItem from="1610022088877" duration="515000" />
+      <workItem from="1610023264925" duration="4066000" />
+      <workItem from="1610358088911" duration="19032000" />
+      <workItem from="1610972519938" duration="601000" />
+      <workItem from="1610978536988" duration="3105000" />
+      <workItem from="1610982511148" duration="891000" />
+      <workItem from="1611561146795" duration="1722000" />
+      <workItem from="1611569726608" duration="14443000" />
+      <workItem from="1613385446835" duration="2746000" />
+      <workItem from="1613390511761" duration="606000" />
+      <workItem from="1613401081792" duration="10651000" />
+      <workItem from="1617196764410" duration="4834000" />
+      <workItem from="1618904970763" duration="40246000" />
+      <workItem from="1620638487177" duration="23659000" />
+      <workItem from="1621000526121" duration="15360000" />
+      <workItem from="1621422073833" duration="2077000" />
+      <workItem from="1621427602736" duration="2877000" />
+      <workItem from="1621582044715" duration="2942000" />
+      <workItem from="1621594985288" duration="1453000" />
+      <workItem from="1621608580155" duration="1562000" />
+      <workItem from="1621953635076" duration="706000" />
+      <workItem from="1622547455225" duration="3085000" />
+      <workItem from="1622794592861" duration="489000" />
+      <workItem from="1622795365604" duration="9000" />
+      <workItem from="1622795386004" duration="1334000" />
+      <workItem from="1623076135288" duration="9545000" />
+      <workItem from="1623310889416" duration="68016000" />
+      <workItem from="1623930920746" duration="10236000" />
+      <workItem from="1624881562306" duration="2336000" />
+      <workItem from="1624893850731" duration="20459000" />
+      <workItem from="1625650646712" duration="7608000" />
+      <workItem from="1625824453091" duration="37268000" />
+      <workItem from="1627386125119" duration="21908000" />
+      <workItem from="1628172952332" duration="17442000" />
+      <workItem from="1632384748997" duration="2757000" />
+      <workItem from="1633605017465" duration="3018000" />
+      <workItem from="1633613621391" duration="4431000" />
+      <workItem from="1634211198958" duration="11830000" />
+      <workItem from="1635342163559" duration="9747000" />
+      <workItem from="1636359615975" duration="2969000" />
+      <workItem from="1642499953673" duration="14312000" />
+      <workItem from="1646904354000" duration="2773000" />
+      <workItem from="1647524941460" duration="6000" />
+      <workItem from="1648114664914" duration="11006000" />
+      <workItem from="1650617149751" duration="1762000" />
+      <workItem from="1658921367026" duration="5673000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1156547000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="72" y="0" width="1848" height="1200" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3873474" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49474266" weight="0.42093784" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49944505" weight="0.3991276" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="6" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" sideWeight="0.4955605" visible="true" weight="0.21522556" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4955605" weight="0.29041353" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50443953" side_tool="true" weight="0.24100327" />
+      <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.49944505" weight="0.32877526" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32894737" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32877526" />
+      <window_info anchor="bottom" id="File Transfer" order="13" sideWeight="0.49944505" weight="0.3293348" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32963374" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30854607" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49474266" weight="0.42093784" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49944505" weight="0.3991276" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="6" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" sideWeight="0.4955605" visible="true" weight="0.32800752" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4955605" weight="0.3223684" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50443953" side_tool="true" weight="0.24100327" />
+      <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.49944505" weight="0.32877526" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.3293348" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32877526" />
+      <window_info anchor="bottom" id="File Transfer" order="13" sideWeight="0.49944505" weight="0.3293348" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32963374" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/projects/Examples/example4/Flags.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/9/bits/stl_algo.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="1433" column="4" selection-start-line="1433" selection-start-column="4" selection-end-line="1433" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/Examples/example7/ex7main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/Examples/example5/ex5main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="117" selection-start-line="117" selection-end-line="119" />
+          <folding>
+            <element signature="e#2017#2055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/SimpleSimulator/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/Examples/spatialBridging/SpatialBridging.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/analyzer/AnalyzerWriteBfmFileSubGroup.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1850">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <element signature="e#1394#1408#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/analyzer/AbstractAnalyzer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-469">
+          <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/io/AbstractWrite.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-846" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/utility/ResultFormattingTools.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-585">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <element signature="e#1378#1395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/Version.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/analyzer/AnalyzerWriteBfmFile.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="408" column="1" lean-forward="true" selection-start-line="408" selection-start-column="1" selection-end-line="408" selection-end-column="1" />
+          <folding>
+            <element signature="e#1378#1392#0" expanded="true" />
+            <element signature="e#7139#7162#0" expanded="true" />
+            <element signature="e#7798#7821#0" expanded="true" />
+            <element signature="e#10479#10502#0" expanded="true" />
+            <element signature="e#10956#10979#0" expanded="true" />
+            <element signature="e#13805#13828#0" expanded="true" />
+            <element signature="e#15241#15264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/updater/UpdaterSimpleSimulator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="84" column="29" lean-forward="true" selection-start-line="84" selection-start-column="29" selection-end-line="84" selection-end-column="29" />
+          <folding>
+            <element signature="e#1380#1425#0" expanded="true" />
+            <element signature="e#1937#1976#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="60" column="26" lean-forward="true" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-855" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeMonADE/utility/TaskManager.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-659">
+          <caret line="75" column="18" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/updater/UpdaterSimpleSimulatorBridges.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="107" column="13" lean-forward="true" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
+          <folding>
+            <element signature="e#1400#1445#0" expanded="true" />
+            <element signature="e#2003#2060#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/updater/moves/MoveAddMonomerSc.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/updater/UpdaterAbstractCreate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="142" column="21" lean-forward="true" selection-start-line="142" selection-start-column="21" selection-end-line="142" selection-end-column="21" />
+          <folding>
+            <element signature="e#1706#1751#0" expanded="true" />
+            <element signature="e#2026#2049#0" expanded="true" />
+            <element signature="e#4276#4299#0" expanded="true" />
+            <element signature="e#5237#5260#0" expanded="true" />
+            <element signature="e#7214#7237#0" expanded="true" />
+            <element signature="e#9046#9069#0" expanded="true" />
+            <element signature="e#10729#10754#0" expanded="true" />
+            <element signature="e#16544#16567#0" expanded="true" />
+            <element signature="e#17115#17138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/updater/UpdaterAddLinearChains.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="153" column="25" selection-start-line="153" selection-start-column="25" selection-end-line="153" selection-end-column="25" />
+          <folding>
+            <element signature="e#2177#2228#0" expanded="true" />
+            <element signature="e#2294#2317#0" expanded="true" />
+            <element signature="e#4080#4105#0" expanded="true" />
+            <element signature="e#4634#4659#0" expanded="true" />
+            <element signature="e#5267#5292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/feature/Feature.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1088" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/feature/FeatureAttributes.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1395" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/feature/FeatureBoxRead.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="124" column="3" lean-forward="true" selection-start-line="124" selection-start-column="3" selection-end-line="124" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/updater/moves/MoveConnectBase.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2228" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/core/ConfigureSystem.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/core/FeatureHolder.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/core/Molecules.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-920">
+          <caret line="149" column="67" lean-forward="true" selection-start-line="149" selection-start-column="67" selection-end-line="149" selection-end-column="67" />
+          <folding>
+            <element signature="e#1348#1367#0" expanded="true" />
+            <element signature="e#3017#3078#0" expanded="true" />
+            <element signature="e#3689#3716#0" expanded="true" />
+            <element signature="e#7334#7358#0" expanded="true" />
+            <element signature="e#11464#11514#0" expanded="true" />
+            <element signature="e#11524#11552#0" expanded="true" />
+            <element signature="e#12694#12744#0" expanded="true" />
+            <element signature="e#13798#13848#0" expanded="true" />
+            <element signature="e#15254#15304#0" expanded="true" />
+            <element signature="e#17081#17131#0" expanded="true" />
+            <element signature="e#17757#17807#0" expanded="true" />
+            <element signature="e#18610#18660#0" expanded="true" />
+            <element signature="e#19509#19559#0" expanded="true" />
+            <element signature="e#20221#20271#0" expanded="true" />
+            <element signature="e#21080#21129#0" expanded="true" />
+            <element signature="e#21598#21647#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/utility/FastBondset.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2108" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/utility/Lattice.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5181" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/utility/SlowBondset.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-503" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/utility/LatticePredicates.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-367" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/core/ConnectedDecorator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-675" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/utility/BoundaryCheck.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <element signature="e#1362#1382#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/utility/TrackConnection.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <element signature="e#1366#1383#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeMonADE/feature/FeatureBox.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/utility/R250.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="105" column="20" selection-start-line="105" selection-start-column="20" selection-end-line="105" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/feature/FeatureMoleculesIO.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="158" column="79" selection-start-line="158" selection-start-column="79" selection-end-line="158" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/utility/SafeCast.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/core/Ingredients.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3155">
+          <caret line="71" column="70" lean-forward="true" selection-start-line="71" selection-start-column="70" selection-end-line="71" selection-end-column="70" />
+          <folding>
+            <element signature="e#1352#1369#0" expanded="true" />
+            <element signature="e#3562#3576#0" expanded="true" />
+            <element signature="e#8630#8653#0" expanded="true" />
+            <element signature="e#9051#9067#0" expanded="true" />
+            <element signature="e#9462#9480#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/updater/moves/MoveLocalBase.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1341">
+          <caret line="93" column="71" lean-forward="true" selection-start-line="93" selection-start-column="71" selection-end-line="93" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/utility/Vector3D.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="611" column="29" selection-start-line="611" selection-start-column="29" selection-end-line="611" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/feature/FeatureBoltzmann.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
+          <folding>
+            <element signature="e#1368#1405#0" expanded="true" />
+            <element signature="e#2691#2714#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/utility/DistanceCalculation.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="155" column="32" lean-forward="true" selection-start-line="155" selection-start-column="32" selection-end-line="155" selection-end-column="32" />
+          <folding>
+            <element signature="e#1479#1498#0" expanded="true" />
+            <element signature="e#4817#4841#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/feature/FeatureBox.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/updater/moves/MoveBase.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="79" column="9" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/Examples/example4/ex4main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="104" column="45" selection-start-line="104" selection-start-column="45" selection-end-line="104" selection-end-column="45" />
+          <folding>
+            <element signature="e#1852#1890#0" expanded="true" />
+            <marker date="1619166972916" expanded="true" signature="6358:8401" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/utility/RandomNumberGenerators.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/updater/moves/MoveLocalSc.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3705">
+          <caret line="247" column="2" selection-start-line="247" selection-start-column="2" selection-end-line="247" selection-end-column="2" />
+          <folding>
+            <element signature="e#1371#1420#0" expanded="true" />
+            <element signature="e#6642#6665#0" expanded="true" />
+            <element signature="e#7562#7585#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/updater/Bridges.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/LeMonADE/updater/UpdaterSimpleSimulatorBridgesAll.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1293">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+          <folding>
+            <element signature="e#1400#1445#0" expanded="true" />
+            <element signature="e#2020#2077#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/Examples/example6/ex6main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="54" column="36" lean-forward="true" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
