@@ -86,7 +86,8 @@ This can be found in the documentation.
     cmake ..
     make docs
 ```
-
+## Feature added
+* Bridging interactions between monomers. Added monte carlo rejection schemes for interactions. Modified code for hyperparameter sweeps.
 
 ## Contributions
 
