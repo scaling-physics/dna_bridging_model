@@ -1,5 +1,5 @@
 [![Build Status(CircleCI)](https://circleci.com/gh/LeMonADE-project/LeMonADE.svg?style=svg)](https://circleci.com/gh/LeMonADE-project/LeMonADE)
-# LeMonADE 
+# LeMonADE (mod) 
 The abbreviation LeMonADE stands for 
 "**L**attice-based **e**xtensible **Mon**te-Carlo **A**lgorithm and **D**evelopment **E**nvironment".
 
@@ -7,6 +7,7 @@ The aim of the LeMonADE-project is an open source implementation of the
 bond-fluctuation-model ([BFM1], [BFM2]) for simulating polymeric systems using generic
 template metaprogramming in C++. 
 
+This project mods the LeMonADE code to perform bridging moves between spatially proximal monomers. 
 [BFM1]: http://dx.doi.org/10.1021/ma00187a030  "I. Carmesin, K. Kremer; Macromolecules 21, 2819-2823 (1988)"
  
 [BFM2]: http://dx.doi.org/10.1063/1.459901 "H. P. Deutsch, K. Binder; J. Chem. Phys. 94, 2294-2304 (1990)"
