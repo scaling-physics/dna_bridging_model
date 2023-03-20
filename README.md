@@ -11,7 +11,7 @@ template metaprogramming in C++.
 [BFM2]: http://dx.doi.org/10.1063/1.459901 "H. P. Deutsch, K. Binder; J. Chem. Phys. 94, 2294-2304 (1990)"
 
 
-This project mods the LeMonADE code to perform bridging moves between spatially proximal monomers. 
+This project makes major changes to the LeMonADE code to perform bridging moves between spatially proximal monomers. 
 
 - Subramanian, S., Murray, S.M. DNA bridging explains sub-diffusive movement of chromosomal loci in bacteria (2022). bioRxiv. https://doi.org/10.1101/2022.11.18.517049 (S.Subramanian, S.M.Murray 2022).
 
